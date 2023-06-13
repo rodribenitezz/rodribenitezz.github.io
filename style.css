@@ -1,0 +1,63 @@
+body {
+    background: rgb(10, 189, 212);
+background: linear-gradient(90deg, rgb(0, 4, 248) 0%, rgb(9, 192, 238) 35%, rgb(4, 247, 186) 100%);
+}
+
+.foto_perfil {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    margin: 25px auto;
+}
+
+.descri_nombre {
+    font-size: 12px;
+}
+
+.card-text {
+    font-size: 19px;
+}
+
+.descri_card {
+    margin-top: 1rem;
+    text-align: center;
+    font-size: 17px;
+    font-style: oblique;
+}
+
+.card {
+    height: 35rem;
+    box-shadow: 0px 0px 15px 0px white;
+    opacity: 100%;
+}
+
+#redes-sociales {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 100px;
+    margin: -25px auto;
+}
+
+.line {
+    text-align: center;
+    color: blue;
+}
+
+#redes-sociales img {
+    height: 40px;
+    width: 40px;
+    margin: 0 10px;
+
+}
+.col-8{
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px 0px white;
+    opacity: 100%;
+}
+.Rodrigo{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 25px;
+}
